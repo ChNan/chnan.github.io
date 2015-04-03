@@ -1,7 +1,7 @@
 name: ILovT
 description: 爱编程,极限飞盘,中国文化！专注于Java后端！
 
-url: https://github.com/ILovT/ilovt.github.io
+url: http://ilovt.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
