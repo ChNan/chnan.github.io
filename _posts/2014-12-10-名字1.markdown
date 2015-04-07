@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Test Post"
+title:  "名字2"
 date:   2014-12-10
 ---
 
