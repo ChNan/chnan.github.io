@@ -1,5 +1,5 @@
 name: ILovT
-description: 爱编程,极限飞盘,中国文化！专注于Java后端！
+description: 玩极限飞盘的Java猿！
 
 url: http://ilovt.github.io
 paginate_path: "blog/page:num/"
