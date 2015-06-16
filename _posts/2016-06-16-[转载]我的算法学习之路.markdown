@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "【转载】我的算法学习之路"
+title:  "[转载]我的算法学习之路"
 date:   2016-06-16
 ---
-# 【转载】我的算法学习之路
 作者：[Lucida](http://lucida.me/about)
 
 *   微博：[@peng_gong](http://www.weibo.com/pegong/)
