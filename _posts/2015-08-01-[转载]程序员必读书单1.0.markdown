@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "[转载]程序员必读书单2.0"
+title:  "[转载]程序员必读书单1.0"
 date:   2015-08-01
 ---
 作者：[Lucida](http://lucida.me/about)
@@ -810,11 +810,3 @@ Python的入门书籍很多，而且据说质量大多不错，我推荐[Python�
 *   豆瓣：[@figure9](http://www.douban.com/people/figure9/)
 
 原文链接：[http://lucida.me/blog/developer-reading-list/](http://lucida.me/blog/developer-reading-list/)
-
-</div>
-
-  <footer>
-
-<span class="byline author vcard">Posted by <span class="fn">Lucida</span></span>
-
-  <script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=1885012" charset="utf-8"></script><script type="text/javascript" src="http://v3.jiathis.com/code/plugin.client.js" charset="utf-8"></script>
