@@ -1,13 +1,9 @@
----
+﻿---
 layout: post
 title:  "[转载]程序员必读书单1.0"
 date:   2015-08-01
 ---
 <article class="hentry" role="article">
-
-<h1>程序员必读书单 1.0</h1>
-
-
 <div class="entry-content">
   <p>作者：<a href="http://lucida.me/about">Lucida</a></p>
 
