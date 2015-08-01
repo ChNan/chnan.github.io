@@ -24,13 +24,13 @@ date:   2015-08-01
 
 *   良好的[程序设计](http://zh.wikipedia.org/wiki/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1)能力：
 
-        *   掌握常用的数据结构和算法（例如链表，栈，堆，队列，排序和散列）；
+    *   掌握常用的数据结构和算法（例如链表，栈，堆，队列，排序和散列）；
     *   理解计算机科学的核心概念（例如计算机系统结构、操作系统、编译原理和计算机网络）；
     *   熟悉至少两门以上编程语言（例如C++，Java，C#，和Python）；
 
 *   专业的[软件开发](http://zh.wikipedia.org/wiki/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91)素养：
 
-        *   具备良好的编程实践，能够编写可测试（Testable），可扩展（Extensible），可维护（Maintainable）的代码；
+    *   具备良好的编程实践，能够编写可测试（Testable），可扩展（Extensible），可维护（Maintainable）的代码；
     *   把握客户需求，按时交付客户所需要的软件产品；
     *   理解现代软件开发过程中的核心概念（例如面向对象程序设计，测试驱动开发，持续集成，和持续交付等等）。
 
@@ -56,7 +56,7 @@ date:   2015-08-01
 
 1.  **必读**：什么是必读书籍呢？如果学习某项技术有一本书无论如何都不能错过，那么这本书就是必读书籍——例如[Effective Java](http://www.amazon.cn/gp/product/B001PTGR52/ref=as_li_ss_tl?ie=UTF8&amp;camp=536&amp;tag=lucida-23&amp;creativeASIN=B001PTGR52&amp;linkCode=as2&amp;creative=3132)于Java，[CLR via C#](http://www.amazon.cn/gp/product/B00P8VZ8T4/ref=as_li_ss_tl?ie=UTF8&amp;camp=536&amp;tag=lucida-23&amp;creativeASIN=B00P8VZ8T4&amp;linkCode=as2&amp;creative=3132)于C#；
 
-        *   注意我没有使用“经典”这个词，因为**经典**计算机书籍往往和**计算机科学**联系在一起，而且经典往往需要10年甚至更长的时间进行考验；
+    *   注意我没有使用“经典”这个词，因为**经典**计算机书籍往往和**计算机科学**联系在一起，而且经典往往需要10年甚至更长的时间进行考验；
 
 2.  **注重实践，而非理论**：所以这个书单不会包含过于原理性的书籍；
 3.  **入门—必读—延伸**：必读书籍的问题在于：1. 大多不适合入门；2. 不够全面。考虑到没有入门阅读和延伸阅读的阅读列表是不完整的——所以书单中每个关键概念都会由一本入门书籍，一本必读书籍（有时入门书籍和必读书籍是同一本），和若干延伸阅读书籍所构成。
@@ -105,7 +105,7 @@ date:   2015-08-01
 1.  [基础理论](#foundation)：[编码：隐匿在计算机软硬件背后的语言](#code)
 2.  [编程语言](#programming_language)：
 
-        *   [C](#c)：[C和指针](#pointers_on_c)
+    *   [C](#c)：[C和指针](#pointers_on_c)
     *   [C++](#cpp)：[C++程序设计原理与实践](#pppcpp)
     *   [Java](#java)：[Java核心技术（第9版）](#core_java)
     *   [C#](#csharp)：[精通C#（第6版）](#pro_csharp)
@@ -143,7 +143,7 @@ date:   2015-08-01
 1.  [基础理论](#foundation)：[深入理解计算机系统（第2版）](#csapp)
 2.  [编程语言](#programming_language)：
 
-        *   [C](#c)：[C程序设计语言（第2版）](#tcpl)
+    *   [C](#c)：[C程序设计语言（第2版）](#tcpl)
     *   [C++](#cpp)：[C++程序设计语言（第4版）](#tcpppl)
     *   [Java](#java)：[Effective Java（第2版）](#effective_java)
     *   [C#](#csharp)：[CLR via C#（第4版）](#clr_via_csharp)
