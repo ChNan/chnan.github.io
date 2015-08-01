@@ -1,10 +1,8 @@
 ﻿---
 layout: post
-title:  "[转载]程序员必读书单1.0"
+title:  "[转载]程序员必读书单2.0"
 date:   2015-08-01
 ---
-  
-
 作者：[Lucida](http://lucida.me/about)
 
 *   微博：[@peng_gong](http://www.weibo.com/pegong/)
