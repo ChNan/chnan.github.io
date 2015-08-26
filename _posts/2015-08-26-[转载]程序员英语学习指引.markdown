@@ -1,5 +1,8 @@
-# 【转载】程序员英语学习指引
-## 
+---
+layout: post
+title:  "[转载]程序员英语学习指引"
+date:   2015-08-26
+--- 
 
 作者：[Lucida](http://lucida.me/about)
 
