@@ -11,7 +11,7 @@ date:   2015-08-26
 
 原文链接：[http://lucida.me/blog/english-for-programmers/](http://lucida.me/blog/english-for-programmers/)
 
-## 概要1
+## 概要
 
 这篇文章面向程序员，简要的介绍了一些学习计算机专业英语的步骤和经验。
 
