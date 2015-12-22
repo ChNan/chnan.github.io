@@ -1,7 +1,7 @@
 name: ILovT
 description: 玩极限飞盘的Java猿！
 
-url: http://ilovt.github.io
+url: http://chnan.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
